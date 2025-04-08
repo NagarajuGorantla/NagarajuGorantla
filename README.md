@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nagaraju Gorantla!
 
-🚀 Data Scientist | 📊 ML Enthusiast | 🧠 AI Explorer | 🐍 Pythonista
+🚀 Data Scientist | 📊 ML Enthusiast | 🧠 AI Explorer | 🐍 Pythonista | 
 
 Welcome to my GitHub! I’m a passionate data scientist based in Hyderabad, India 🇮🇳, who loves solving real-world problems through data-driven insights, predictive models, and powerful visualizations.
 
@@ -8,12 +8,12 @@ Welcome to my GitHub! I’m a passionate data scientist based in Hyderabad, Indi
 
 ## 💼 About Me
 
-- 🔭 Currently working on: **[Your current project or learning goal]**
-- 🎓 Background in: **Data Science, Machine Learning, and Analytics**
-- 💬 Ask me about: Python, SQL, Machine Learning, Data Visualization, Time Series, NLP
-- ⚡ Fun Fact: I’m always up for a Kaggle challenge or a Hackathon!
-- 🧠 Motto: *“Let the data speak!”*
-
+- 🔭 **Currently working on**: Predicting Bankruptcy using financial data, time series forecasting, and exploring NLP techniques.
+- 🎓 **Background**: Experienced in Data Science, Machine Learning, and Statistical Modeling.
+- 🌱 **Learning**: Always exploring new ML algorithms, optimization methods, and techniques for improving model accuracy.
+- 💬 **Ask me about: Python, SQL, Machine Learning, Data Visualization, Time Series, NLP
+- ⚡ **Fun fact**: I love participating in Kaggle challenges and solving real-world data science problems.
+-  🧠 Motto: *“Let the data speak!”*
 ---
 
 ## 🛠️ Tech Stack
@@ -38,15 +38,51 @@ Welcome to my GitHub! I’m a passionate data scientist based in Hyderabad, Indi
 
 ---
 
-## 📌 Featured Projects
+## 💼 About Me
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [**Bankruptcy Prevention**](https://github.com/NagarajuGorantla/Bankruptcy_Prevention_Project) | Predicting company bankruptcy risk using ML models and financial indicators. | Python, Scikit-Learn, Streamlit |
+- 🔭 **Currently working on**: Predicting Bankruptcy using financial data, time series forecasting, and exploring NLP techniques.
+- 🎓 **Background**: Experienced in Data Science, Machine Learning, and Statistical Modeling.
+- 🌱 **Learning**: Always exploring new ML algorithms, optimization methods, and techniques for improving model accuracy.
+- 📚 **Books I'm reading**: *“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow”*.
+- ⚡ **Fun fact**: I love participating in Kaggle challenges and solving real-world data science problems.
 
+---
 
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, SQL
+- **Libraries**: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Frameworks**: Streamlit, Flask, TensorFlow
+- **Tools**: Jupyter, Git, Docker, Tableau
+- **Databases**: PostgreSQL, MySQL
+- **Cloud**: AWS (S3, EC2), Google Colab
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuGorantla&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagarajuGorantla&theme=github-dark" />
+</p>
+
+---
+
+## 🧑‍💻 Featured Projects
+
+### 🚀 **[Bankruptcy Prediction Project](https://github.com/NagarajuGorantla/Bankruptcy_Prevention_Project)**
+- **Description**: Built a machine learning model to predict company bankruptcy using financial features and various classification algorithms.
+- **Technologies**: Python, Pandas, Scikit-Learn, Streamlit
+- **Key Highlights**: Data preprocessing, Feature Engineering, Model Evaluation, Deployment with Streamlit.
+
+### 🧠 **[Apple Stock Price Prediction](https://github.com/NagarajuGorantla/Apple_Stock_Price_Prediction)**
+- **Description**: Predict stock prices using historical data, ARIMA, and SARIMA models for time series forecasting.
+- **Technologies**: Python, ARIMA, Statsmodels, Pandas, Matplotlib
+
+### 🌍 **[Clustering Economic Indicators](https://github.com/NagarajuGorantla/Economic_Indicators_Clustering)**
+- **Description**: Analyzed and clustered economic, social, and demographic indicators using K-Means, DBSCAN, and PCA.
+- **Technologies**: Python, Scikit-Learn, Pandas, Matplotlib
 *Explore more in the pinned repositories below!*
-
 ---
 
 ## 📬 Let's Connect

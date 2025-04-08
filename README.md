@@ -29,25 +29,6 @@ Welcome to my GitHub! I’m a passionate data scientist based in Hyderabad, Indi
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuGorantla&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagarajuGorantla&theme=github-dark" />
-</p>
-
----
-
-## 💼 About Me
-
-- 🔭 **Currently working on**: Predicting Bankruptcy using financial data, time series forecasting, and exploring NLP techniques.
-- 🎓 **Background**: Experienced in Data Science, Machine Learning, and Statistical Modeling.
-- 🌱 **Learning**: Always exploring new ML algorithms, optimization methods, and techniques for improving model accuracy.
-- 📚 **Books I'm reading**: *“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow”*.
-- ⚡ **Fun fact**: I love participating in Kaggle challenges and solving real-world data science problems.
-
----
-
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, SQL

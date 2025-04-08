@@ -40,15 +40,6 @@ Welcome to my GitHub! I’m a passionate data scientist based in Hyderabad, Indi
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagarajuGorantla&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagarajuGorantla&theme=github-dark" />
-</p>
-
----
-
 ## 🧑‍💻 Featured Projects
 
 ### 🚀 **[Bankruptcy Prediction Project](https://github.com/NagarajuGorantla/Bankruptcy_Prevention_Project)**

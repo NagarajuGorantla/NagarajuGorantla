@@ -68,7 +68,7 @@ Welcome to my GitHub! I’m a passionate data scientist based in Hyderabad, Indi
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/feed//)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nagarajugorantla972@gmail.com)
 
 ---

@@ -45,16 +45,16 @@ Welcome to my GitHub! I’m a passionate data scientist based in Hyderabad, Indi
 
 ## 🧑‍💻 Featured Projects
 
-### 🚀 **[Bankruptcy Prediction Project](https://github.com/NagarajuGorantla/Bankruptcy_Prevention_Project)**
+### 🚀 **[Bankruptcy_Risk_Assessment_System](https://github.com/NagarajuGorantla/Bankruptcy_Risk_Assessment_System)**
 - **Description**: Built a machine learning model to predict company bankruptcy using financial features and various classification algorithms.
 - **Technologies**: Python, Pandas, Scikit-Learn, Streamlit
 - **Key Highlights**: Data preprocessing, Feature Engineering, Model Evaluation, Deployment with Streamlit.
 
-### 🧠 **[Apple Stock Price Prediction](https://github.com/NagarajuGorantla/Apple_Stock_Price_Prediction)**
+### 🧠 **[Apple Stock Price Prediction](https://github.com/NagarajuGorantla/Apple-stock-predection)**
 - **Description**: Predict stock prices using historical data, ARIMA, and SARIMA models for time series forecasting.
 - **Technologies**: Python, ARIMA, Statsmodels, Pandas, Matplotlib
 
-### 🌍 **[Clustering Economic Indicators](https://github.com/NagarajuGorantla/Economic_Indicators_Clustering)**
+### 🌍 **[Clustering_Global_Development](https://github.com/NagarajuGorantla/Clustering_Global_Development)**
 - **Description**: Analyzed and clustered economic, social, and demographic indicators using K-Means, DBSCAN, and PCA.
 - **Technologies**: Python, Scikit-Learn, Pandas, Matplotlib
 *Explore more in the pinned repositories below!*
